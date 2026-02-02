@@ -36,11 +36,11 @@
 
 ---
 
-## 🛠️ things i've built (and keep breaking on 'purpose' 🥀)
+## 🛠️ things i've built ( and keep breaking on 'purpose' 🥀)
 
 - [**MoonMask**](https://github.com/DCA254/MoonMask) → LuaU code obfuscator  
 - [**PSLoom**](https://github.com/DCA254/PSLoom) → modular PowerShell configuration framework  
-- [**SpeedyTurtle**](https://github.com/DCA254/SpeedyTurtle) → meme browser
+- [**SpeedyTurtle**](https://github.com/DCA254/SpeedyTurtle) → **meme** browser
 - **CinPy** → simple FFI bindings between C and Python  (private, for now)
 - **Cryptographer** → cryptography library in Python  (private, for now)
 - plus a bunch of smaller tools and experiments
@@ -48,7 +48,7 @@
   <b>Check then out!</b>
 </a>
 
-i like building from scratch. libraries are optional.
+i like building from scratch. libraries are **optional**.
 
 ---
 
@@ -61,19 +61,27 @@ i like building from scratch. libraries are optional.
 - modular configs and frameworks
 - reverse engineering (reading > exploiting)
 
-❌ web hacking
-❌ web development (fuck css)
-❌ clicky dashboards  
+> ❌ web hacking
+> ❌ web development (**fuck css**)
+> ❌ clicky dashboards  
 
 ---
 
-## Stats
+<details>
+  <summary>
+    <h1><b>
+      My github stats
+    </h1></b>
+  </summary>
+
 <img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=DCA254&show_icons=true&theme=merko&border_color=599200">
 <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=DCA254&theme=merko&layout=compact&border_color=599200">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DCA254&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+</details>
 
 ---
 
