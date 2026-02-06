@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge">
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254" alt="Total Forks"/>
 
-[![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
+  [![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
+
+  
 
 </p>
 ---
@@ -90,10 +92,12 @@ i like building from scratch. libraries are **optional**.
     </h1></b>
   </summary>
 
-<img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=DCA254&show_icons=true&theme=merko&border_color=599200">
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=DCA254&theme=merko&layout=compact&border_color=599200">
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=DCA254&show_icons=true&theme=merko&border_color=599200">
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=DCA254&theme=merko&layout=compact&border_color=599200">
+</p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DCA254&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
