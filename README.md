@@ -104,21 +104,19 @@ i like building from scratch. libraries are **optional**.
 
 <p align="center">
 
-  <picture>
+    <!--  the 'height' should be always equal to the bottom 'mg' tag 'height' --
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api?username=DCA254&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
       alt=""
     />
-  </picture>
 
-  <picture>
+    <!--  this one. -->
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DCA254&hide_title=false&layout=compact&theme=gotham&count_private=true"
       alt=""
     />
-  </picture>
 
 </p>
 
