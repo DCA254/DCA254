@@ -137,50 +137,50 @@
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-          <br>JavaScript
           </a>
+          <br>JavaScript
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-          <br>TypeScript
           </a>
+          <br>TypeScript
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-          <br>Webpack
           </a>
+          <br>Webpack
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="icon" width="65" height="65" />
-          <br>SQL
           </a>
+          <br>SQL
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-          <br>AWS
           </a>
+          <br>AWS
         </td>
        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-          <br>Github
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
           </a>
+          <br>Git
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
-          <br>Git
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
           </a>
+          <br>Github
         </td>
         <!-- ========= -->
       </tr>
