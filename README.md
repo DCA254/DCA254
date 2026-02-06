@@ -125,7 +125,7 @@ i like building from scratch. libraries are **optional**.
 
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DCA254&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DCA254&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=2980b9&area=true&hide_border=true)
 
 </details>
 
