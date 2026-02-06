@@ -43,7 +43,7 @@
 <details>
   <summary>
     <h2><b>
-      Techstack I know ( Languages, Tools, etc )
+      My tech stack ( Languages, Tools, etc )
     </h2></b>
   </summary>
 
@@ -156,10 +156,8 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="icon" width="65" height="65" />
-          </a>
-          <br>SQL
+            <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+          <br>PHP
         </td>
         <!-- ========= -->
         <td align="center" width="96">
@@ -171,7 +169,7 @@
        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="icon" />
           </a>
           <br>Git
         </td>
@@ -188,8 +186,10 @@
      <tr>
          <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-          <br>PHP
+          <a href="#macropower-tech">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>SQL
         </td>
         <!-- ========= -->
         <td align="center" width="96">
