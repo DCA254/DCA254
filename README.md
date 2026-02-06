@@ -95,16 +95,18 @@ i like building from scratch. libraries are **optional**.
 <p align="center">
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
 </p>
+
 <p align="center">
   <picture>
     <img
-      align=""
-      height="150px"
+      align="center"
       src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox"
     />
   </picture>
 </p>
+
 <p align="center">
+
   <picture>
     <img
       align=""
@@ -113,6 +115,7 @@ i like building from scratch. libraries are **optional**.
       alt=""
     />
   </picture>
+
   <picture>
     <img
       align=""
@@ -121,6 +124,7 @@ i like building from scratch. libraries are **optional**.
       alt=""
     />
   </picture>
+
 </p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DCA254&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
