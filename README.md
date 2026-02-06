@@ -55,63 +55,63 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="icon" />
           </a>
           <br>Batch
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="icon" />
           </a>
           <br>Bash
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="icon" />
           </a>
           <br>Powershell
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>Python
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="icon" />
           </a>
           <br>Rust
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="icon" />
           </a>
           <br>C
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>C++
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>C#
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=lua" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="icon" />
           </a>
           <br>Lua
         </td>
@@ -122,47 +122,47 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" alt="icon" width="65" height="65" />
+            <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" width="65" height="65" alt="icon" />
           </a>
           <br>LuaU
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=nix" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=nix" width="65" height="65" alt="icon" />
           </a>
           <br>Nix
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>JavaScript
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>TypeScript
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>Webpack
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+            <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" alt="icon" />
           <br>PHP
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>AWS
         </td>
@@ -176,7 +176,7 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>Github
         </td>
@@ -187,18 +187,22 @@
          <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="icon" width="65" height="65" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="icon" />
           </a>
           <br>SQL
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="icon" />
+          </a>
           <br>VsCode
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="icon" />
+          </a>
           <br>GraphQL
         </td>
         <!-- ========= -->
