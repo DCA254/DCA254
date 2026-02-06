@@ -32,7 +32,7 @@
 
 ##  Languages i'm actually comfortable with
 
-- **PowerShell**, **Bash**, **Batch**
+- **Batch**, **Bash**, **Powershell**
 - **Python**, **Rust**
 - **C**, **C#**
 - **Lua**, **LuaU**
@@ -55,9 +55,23 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
+            <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2020/05/Windows-Terminal.jpg?w=1200&h=675&fit=crop" alt="icon" width="65" height="65" />
+          </a>
+          <br>Batch
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="icon" width="65" height="65" />
           </a>
-          <br>Python
+          <br>Bash
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Powershell
         </td>
         <!-- ========= -->
         <td align="center" width="96">
@@ -68,7 +82,14 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+          <a href="#macropower-tech">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Rust
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
           <br>JavaScript
         </td>
         <!-- ========= -->
