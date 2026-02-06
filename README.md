@@ -43,7 +43,7 @@
 <details>
   <summary>
     <h2><b>
-      Languages I know
+      Techstack I know ( Languages, Tools, etc )
     </h2></b>
   </summary>
 
@@ -75,7 +75,7 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="icon" width="65" height="65" />
           <br>SQL
         </td>
         <!-- ========= -->
@@ -193,6 +193,8 @@
      </tr>
     </table>
   </div>
+
+> *“You can learn anything if you know its use reason and internals”*
 </details>
 
 
