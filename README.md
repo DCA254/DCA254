@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254" alt="Total Forks"/>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
+
 ---
 
 ## 🧠 about me
@@ -33,6 +35,20 @@
 - **C**, **C#**
 - **Lua**, **LuaU**
 - **Nix**
+
+---
+
+<details>
+  <summary>
+    <h2><b>
+      Languages I know
+    </h2></b>
+  </summary>
+
+
+      
+</details>
+
 
 ---
 
