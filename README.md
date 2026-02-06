@@ -88,7 +88,7 @@ i like building from scratch. libraries are **optional**.
 <details>
   <summary>
     <h1><b>
-      My github stats
+      Github stats
     </h1></b>
   </summary>
 
@@ -96,7 +96,13 @@ i like building from scratch. libraries are **optional**.
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
 </p>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
+  <picture>
+    <img
+      align=""
+      height="150px"
+      src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox"
+    />
+  </picture>
 </p>
 <p align="center">
   <picture>
