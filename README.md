@@ -52,6 +52,13 @@
     <table align="center">
       <!-- =============================== 1 ROW =============================== -->
       <tr>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="%macropower-tech>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="icon"  alt="icon" width="65" height="65" />
+          </a>
+        </td>
+        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
