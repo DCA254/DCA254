@@ -121,8 +121,17 @@
       <tr>
         <!-- ========= -->
         <td align="center" width="96">
-          <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" alt="icon" width="65" height="65" />
+          <a href="#macropower-tech">
+            <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" alt="icon" width="65" height="65" />
+          </a>
           <br>LuaU
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=nix" alt="icon" width="65" height="65" />
+          </a>
+          <br>Nix
         </td>
         <!-- ========= -->
         <td align="center" width="96">
