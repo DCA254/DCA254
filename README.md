@@ -9,14 +9,10 @@
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DCA254?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge">
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254" alt="Total Forks"/>
+
+  [![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
+
 </p>
-
-<p align="center">
-
-[![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
-  
-</p>
-
 ---
 
 ## 🧠 about me
