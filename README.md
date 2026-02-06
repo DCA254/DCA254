@@ -106,6 +106,7 @@ i like building from scratch. libraries are **optional**.
 
   <picture>
     <img
+      height='150px'
       src="https://beautiful-github-homepage.vercel.app/api?username=DCA254&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
       alt=""
     />
@@ -113,6 +114,7 @@ i like building from scratch. libraries are **optional**.
 
   <picture>
     <img
+      height='150px'
       src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DCA254&hide_title=false&layout=compact&theme=gotham&count_private=true"
       alt=""
     />
