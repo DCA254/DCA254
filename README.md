@@ -92,12 +92,11 @@ i like building from scratch. libraries are **optional**.
     </h1></b>
   </summary>
 
-<img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=DCA254&show_icons=true&theme=merko&border_color=599200">
-
 <p align="center">
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=DCA254&theme=merko&border=599200">
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=DCA254&theme=merko&layout=compact&border_color=599200">
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox">
 </p>
 <p align="center">
   <a href="https://github.com/DCA254/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=DCA254&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
