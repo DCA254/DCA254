@@ -3,18 +3,37 @@
 <h3 align="center">I'm a 15 year old coding noob!</h3>
 
 <p align="center">
-  <a href="https://github.com/DCA254?tab=stars&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DCA254"/></a>
-  <a href="https://github.com/DCA254?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DCA254?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge">
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254" alt="Total Forks"/>
+  
+  <a 
+    href="https://github.com/DCA254?tab=stars&sort=stargazers">
+      <img
+        alt="Total stars"
+        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DCA254"
+      />
+  </a>
+  
+  <a 
+    href="https://github.com/DCA254?tab=followers">
+      <img
+        alt="Followers"
+        src="https://custom-icon-badges.herokuapp.com/github/followers/DCA254?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
+      />
+  </a>
+  
+  <img
+    alt="Github profile views"
+    src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge"
+  />
+  
+  <img
+    alt="Total forks"
+    src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254"
+  />
 
   [![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
 
-  
-
 </p>
+
 ---
 
 ## 🧠 about me
@@ -62,7 +81,8 @@
 - **CinPy** → simple FFI bindings between C and Python  (private, for now)
 - **Cryptographer** → cryptography library in Python  (private, for now)
 - plus a bunch of smaller tools and experiments
-<a href="https://github.com/DCA254?tab=repositories">
+<a
+  href="https://github.com/DCA254?tab=repositories">
   <b>Check then out!</b>
 </a>
 
@@ -104,19 +124,23 @@ i like building from scratch. libraries are **optional**.
 
 <p align="center">
 
-    <!--  the 'height' should be always equal to the bottom 'mg' tag 'height' --
+  <picture>
+    <!--  the 'height' should be always equal to the bottom 'mg' tag 'height' -->
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api?username=DCA254&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
       alt=""
     />
+  </picture>
 
+  <picture>
     <!--  this one. -->
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DCA254&hide_title=false&layout=compact&theme=gotham&count_private=true"
       alt=""
     />
+  </picture>
 
 </p>
 
@@ -129,7 +153,9 @@ i like building from scratch. libraries are **optional**.
 ## 🐍 Contribution snake, because why not?
 
 <p align="center"> <!-- this shit was stolen 🥀 -->
-  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img
+    src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+  />
 </p>
 
 ---
