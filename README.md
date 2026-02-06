@@ -98,8 +98,11 @@ i like building from scratch. libraries are **optional**.
 
 <p align="center">
     <img
-      align=""
       src="https://github-trophies.vercel.app/?username=DCA254&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&row=2&column=9&theme=gruvbox"
+      style="
+        display: block;
+        margin: auto;
+      "
     />
 </p>
 
