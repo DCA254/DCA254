@@ -110,6 +110,22 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=lua" alt="icon" width="65" height="65" />
+          </a>
+          <br>C#
+        </td>
+        <!-- ========= -->
+      </tr>
+      <!-- =============================== 2 ROW =============================== -->
+      <tr>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" alt="icon" width="65" height="65" />
+          <br>LuaU
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
           <br>JavaScript
         </td>
@@ -134,9 +150,6 @@
           <br>AWS
         </td>
         <!-- ========= -->
-      </tr>
-      <!-- =============================== 2 ROW =============================== -->
-      <tr>
         <td align="center" width="96">
               <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
             <br>Django
@@ -148,7 +161,7 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96"> 
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
           <br>Git
         </td>
         <!-- ========= -->
