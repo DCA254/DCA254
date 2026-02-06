@@ -75,8 +75,8 @@
         </td>
         <!-- ========= -->
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-          <br>MySQL
+            <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="icon" width="65" height="65" />
+          <br>SQL
         </td>
         <!-- ========= -->
         <td align="center" width="96">
