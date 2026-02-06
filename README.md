@@ -55,21 +55,21 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2020/05/Windows-Terminal.jpg?w=1200&h=675&fit=crop" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="65" height="65" />
           </a>
           <br>Batch
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
           </a>
           <br>Bash
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="65" height="65" />
           </a>
           <br>Powershell
         </td>
@@ -83,7 +83,7 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="65" height="65" />
           </a>
           <br>Rust
         </td>
