@@ -3,32 +3,12 @@
 <h3 align="center">I'm a 15 year old coding noob!</h3>
 
 <p align="center">
-  
-  <a 
-    href="https://github.com/DCA254?tab=stars&sort=stargazers">
-      <img
-        alt="Total stars"
-        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DCA254"
-      />
-  </a>
-  
-  <a 
-    href="https://github.com/DCA254?tab=followers">
-      <img
-        alt="Followers"
-        src="https://custom-icon-badges.herokuapp.com/github/followers/DCA254?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
-      />
-  </a>
-  
-  <img
-    alt="Github profile views"
-    src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge"
-  />
-  
-  <img
-    alt="Total forks"
-    src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254"
-  />
+   <a href="https://github.com/DCA254?tab=stars&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DCA254"/></a>
+  <a href="https://github.com/DCA254?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DCA254?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DCA254&color=0E9C47&style=for-the-badge">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DCA254" alt="Total Forks"/>
 
   [![committers.top badge](https://user-badge.committers.top/brazil/DCA254.svg)](https://user-badge.committers.top/brazil/DCA254)
 
