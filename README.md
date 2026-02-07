@@ -19,8 +19,8 @@
 <table align="right">
     <tr><td><span height = "15">🔣</span> Languages 0 - 3</td></tr>
     <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"> Brazilian Portuguese ★★★ (native)</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="15"> Portuguese ★★☆</a></td></tr>
     <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="15"> Portuguese ★★☆</a></td></tr>
     <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="15"> Spanish ★☆☆</a></td></tr>
     <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="15"> Russian ★☆☆</a></td></tr>
 </table>
