@@ -184,12 +184,33 @@
       </tr>
       <!-- =============================== 3 ROW =============================== -->
      <tr>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="icon" />
+          </a>
+          <br>Linux
+        </td>
          <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="icon" />
           </a>
           <br>SQL
+        </td>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="icon" />
+          </a>
+          <br>GraphQL
+        </td>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="icon" />
+          </a>
+          <br>Redis
         </td>
         <!-- ========= -->
         <td align="center" width="96">
@@ -198,12 +219,19 @@
           </a>
           <br>VsCode
         </td>
-        <!-- ========= -->
+       <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=nvim" width="65" height="65" alt="icon" />
           </a>
-          <br>GraphQL
+          <br>Nvim
+        </td>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
+          </a>
+          <br>Roblox Studio
         </td>
         <!-- ========= -->
      </tr>
@@ -268,7 +296,6 @@ i like building from scratch. libraries are **optional**.
 <p align="center">
 
   <picture>
-    <!--  the 'height' should be always equal to the bottom 'mg' tag 'height' -->
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api?username=DCA254&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
@@ -277,7 +304,6 @@ i like building from scratch. libraries are **optional**.
   </picture>
 
   <picture>
-    <!--  this one. -->
     <img
       height='150px'
       src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DCA254&hide_title=false&layout=compact&theme=gotham&count_private=true"
