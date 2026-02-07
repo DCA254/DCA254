@@ -312,15 +312,15 @@
           <br>Blender
         </td>
       <!-- ========= -->
+    </tr>
+    <tr>
+      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://cmake.org/cmake/help/latest/index.html">
             <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="icon" />
           </a>
           <br>Cmake
         </td>
-      <!-- ========= -->
-    </tr>
-    <tr>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://go.dev/doc/">
@@ -402,9 +402,6 @@
           <br>Crystal
         </td>
       <!-- ========= -->
-    </tr>
-    <tr>
-      <!-- ========= -->  
         <td align="center" width="96">
           <a href="https://dev.java/">
             <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="icon" />
