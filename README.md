@@ -183,7 +183,7 @@
         <!-- ========= -->
       </tr>
       <!-- =============================== 3 ROW =============================== -->
-     <tr>
+      <tr>
        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
@@ -248,7 +248,143 @@
           <br>Android Studio
         </td>
         <!-- ========= -->
-     </tr>
+    </tr>
+    <!-- =============================== 4 ROW =============================== -->
+    <tr>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="icon" />
+          </a>
+          <br>Blender
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="icon" />
+          </a>
+          <br>Cmake
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="icon" />
+          </a>
+          <br>Docker
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="icon" />
+          </a>
+          <br>.NET
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="icon" />
+          </a>
+          <br>Github Actions
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
+          </a>
+          <br>Go
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=gtk" width="65" height="65" alt="icon" />
+          </a>
+          <br>GTK
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="icon" />
+          </a>
+          <br>Markdown
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="icon" />
+          </a>
+          <br>Pentest
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=nim" width="65" height="65" alt="icon" />
+          </a>
+          <br>Nim
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=regex" width="65" height="65" alt="icon" />
+          </a>
+          <br>Regular Expressions
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" alt="icon" />
+          </a>
+          <br>Ruby
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="icon" />
+          </a>
+          <br>Unity
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="icon" />
+          </a>
+          <br>Vercel
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=visualStudio" width="65" height="65" alt="icon" />
+          </a>
+          <br>Visual Studio
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="icon" />
+          </a>
+          <br>Windows
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=zig" width="65" height="65" alt="icon" />
+          </a>
+          <br>Zig
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=crystal" width="65" height="65" alt="icon" />
+          </a>
+          <br>Crystal
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="icon" />
+          </a>
+          <br>Java
+        </td>
+      <!-- ========= -->
     </table>
   </div>
 
