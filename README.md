@@ -199,7 +199,7 @@
           <a href="https://github.com/torvalds/linux"> <!-- Could aso put the NixOS docs since its my distro: https://mynixos.com/ -->
             <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="icon" />
           </a>
-          <br>Linux
+          <br>GNU/Linux
         </td>
          <!-- ========= -->
         <td align="center" width="96">
@@ -324,6 +324,7 @@
           </a>
           <br>Pentest
         </td>
+      <!-- ========= -->
     </tr>
     <!-- =============================== 5 ROW =============================== -->
     <tr>
@@ -407,6 +408,27 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AssemblyScript_logo_2020.svg/960px-AssemblyScript_logo_2020.svg.png" width="65" height="65" alt="icon" />
           </a>
           <br>Assembly
+        </td>
+      <!-- ========= -->  
+        <td align="center" width="96">
+          <a href="https://www.gnu.org/software/make/manual/make.html">
+            <img src="https://www.liblogo.com/img-logo/gn2920g19b-gnu-logo-gnu-logo-free-icon-icon-icons-com.png" width="65" height="65" alt="icon" />
+          </a>
+          <br>GNU/Make
+        </td>
+      <!-- ========= -->  
+        <td align="center" width="96">
+          <a href="https://docs.modular.com/mojo/manual/">
+            <img src="https://miro.medium.com/0*2nHvlc2J8SwE1mzZ" width="65" height="65" alt="icon" />
+          </a>
+          <br>Mojo
+        </td>
+      <!-- ========= -->  
+        <td align="center" width="96">
+          <a href="https://docs.carbon-lang.dev/">
+            <img src="https://i.redd.it/yqzsqsu1k9ja1.png" width="65" height="65" alt="icon" />
+          </a>
+          <br>Carbon
         </td>
       <!-- ========= -->
     </tr>
