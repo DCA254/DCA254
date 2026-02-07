@@ -51,7 +51,8 @@
 <details>
   <summary>
     <h2><b>
-      My tech stack ( Languages, Tools, etc ). NOTE: I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some.
+      My tech stack ( Languages, Tools, etc ).
+      NOTE: I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some.
     </h2></b>
   </summary>
 
