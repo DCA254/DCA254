@@ -53,7 +53,7 @@
     <h2><b>
       My tech stack ( Languages, Tools, etc ).
     </h2></b>
-    <table align="right"><tr><td><span height = "15">NOTE:</span> NOTE: I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some. </td></tr></table>
+    <table align="right"><tr><td><span height = "15">NOTE:</span> I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some. </td></tr></table>
   </summary>
 
 
