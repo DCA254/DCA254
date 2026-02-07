@@ -104,14 +104,7 @@
           </a>
           <br>C
         </td>
-                                                                                              <!-- ========= -->
-                                                                                              <td align="center" width="96">
-                                                                                                <a href="https://devdocs.io/c/">
-                                                                                                  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="icon" />
-                                                                                                </a>
-                                                                                                <br>C++
-                                                                                              </td>
-                                                                                              <!-- ========= -->
+        <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="icon" />
@@ -125,26 +118,62 @@
           </a>
           <br>Lua
         </td>
+      </tr>
+      <tr>
         <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://luau.org/getting-started/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png" width="65" height="65" alt="icon" />
+          </a>
+          <br>LuaU
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://nix.dev/tutorials/nix-language.html">
+            <img src="https://skillicons.dev/icons?i=nix" width="65" height="65" alt="icon" />
+          </a>
+          <br>Nix
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://git-scm.com/docs">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="icon" />
+          </a>
+          <br>Git
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://docs.github.com/en">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
+          </a>
+          <br>Github
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://github.com/torvalds/linux"> <!-- Could aso put the NixOS docs since its my distro: https://mynixos.com/ -->
+            <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="icon" />
+          </a>
+          <br>GNU/Linux
+        </td>
+         <!-- ========= -->
+          <td align="center" width="96">
+            <a href="https://neovim.io/doc/">
+              <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="icon" />
+            </a>
+            <br>Neovim
+          </td>
+         <!-- ========= -->
       </tr>
       <!-- =============================== Moderate =============================== -->
       <tr><td><span height = "15">Moderated</span></td></tr>
       <tr>
-                                                                                                    <!-- ========= -->
-                                                                                                    <td align="center" width="96">
-                                                                                                      <a href="https://luau.org/getting-started/">
-                                                                                                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png" width="65" height="65" alt="icon" />
-                                                                                                      </a>
-                                                                                                      <br>LuaU
-                                                                                                    </td>
-                                                                                                    <!-- ========= -->
-                                                                                                    <td align="center" width="96">
-                                                                                                      <a href="https://nix.dev/tutorials/nix-language.html">
-                                                                                                        <img src="https://skillicons.dev/icons?i=nix" width="65" height="65" alt="icon" />
-                                                                                                      </a>
-                                                                                                      <br>Nix
-                                                                                                    </td>
-                                                                                                    <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://devdocs.io/c/">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="icon" />
+          </a>
+          <br>C++
+        </td>
+        <!-- ========= -->
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="icon" />
@@ -158,6 +187,35 @@
           </a>
           <br>TypeScript
         </td>
+        <!-- ========= -->
+          <td align="center" width="96">
+            <a href="https://www.markdownguide.org/">
+              <img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="icon" />
+            </a>
+            <br>Markdown
+          </td>
+        <!-- ========= -->
+          <td align="center" width="96">
+            <a href="https://learn.microsoft.com/en-us/windows/">
+              <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="icon" />
+            </a>
+            <br>Windows
+          </td>
+        <!-- ========= -->  
+          <td align="center" width="96">
+            <a href="https://www.gnu.org/software/make/manual/make.html">
+              <img src="https://www.liblogo.com/img-logo/gn2920g19b-gnu-logo-gnu-logo-free-icon-icon-icons-com.png" width="65" height="65" alt="icon" />
+            </a>
+            <br>GNU/Make
+          </td>
+        <!-- ========= --> 
+        <td align="center" width="96">
+          <a href="https://docs.docker.com/">
+            <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="icon" />
+          </a>
+          <br>Docker
+        </td>
+      <!-- ========= -->
                                                                                                     <!-- ========= -->
                                                                                                     <td align="center" width="96">
                                                                                                       <a href="https://webpack.js.org/">
@@ -179,33 +237,10 @@
                                                                                                         </a>
                                                                                                         <br>AWS
                                                                                                       </td>
-                                                                                                     <!-- ========= -->
-                                                                                                      <td align="center" width="96">
-                                                                                                        <a href="https://git-scm.com/docs">
-                                                                                                          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="icon" />
-                                                                                                        </a>
-                                                                                                        <br>Git
-                                                                                                      </td>
-                                                                                                      <!-- ========= -->
-        <td align="center" width="96">
-          <a href="https://docs.github.com/en">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
-          </a>
-          <br>Github
-        </td>
-        <!-- ========= -->
       </tr>
       <!-- =============================== Explored =============================== -->
       <tr><td><span height = "15">Explored</span></td></tr>
       <tr>
-                                                                                                         <!-- ========= -->
-                                                                                                          <td align="center" width="96">
-                                                                                                            <a href="https://github.com/torvalds/linux"> <!-- Could aso put the NixOS docs since its my distro: https://mynixos.com/ -->
-                                                                                                              <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="icon" />
-                                                                                                            </a>
-                                                                                                            <br>GNU/Linux
-                                                                                                          </td>
-                                                                                                           <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.postgresql.org/docs/current/sql.html"> <!-- alternative: https://www.w3schools.com/sql/sql_intro.asp -->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="icon" />
@@ -240,14 +275,6 @@
           </a>
           <br>Vim
         </td>
-                                                                                                                                         <!-- ========= -->
-                                                                                                                                          <td align="center" width="96">
-                                                                                                                                            <a href="https://neovim.io/doc/">
-                                                                                                                                              <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="icon" />
-                                                                                                                                            </a>
-                                                                                                                                            <br>Neovim
-                                                                                                                                          </td>
-                                                                                                                                         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://create.roblox.com/docs/">
             <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
@@ -281,13 +308,6 @@
         </td>
       <!-- ========= -->
         <td align="center" width="96">
-          <a href="https://docs.docker.com/">
-            <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="icon" />
-          </a>
-          <br>Docker
-        </td>
-      <!-- ========= -->
-        <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/dotnet/">
             <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="icon" />
           </a>
@@ -300,6 +320,7 @@
           </a>
           <br>Github Actions
         </td>
+      <!-- ========= -->
                                                                                                                                           <!-- ========= -->
                                                                                                                                             <td align="center" width="96">
                                                                                                                                               <a href="https://go.dev/doc/">
@@ -308,20 +329,13 @@
                                                                                                                                               <br>Go
                                                                                                                                             </td>
                                                                                                                                           <!-- ========= -->
+      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.gtk.org/docs/">
             <img src="https://skillicons.dev/icons?i=gtk" width="65" height="65" alt="icon" />
           </a>
           <br>GTK
         </td>
-                                                                                                                                            <!-- ========= -->
-                                                                                                                                              <td align="center" width="96">
-                                                                                                                                                <a href="https://www.markdownguide.org/">
-                                                                                                                                                  <img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="icon" />
-                                                                                                                                                </a>
-                                                                                                                                                <br>Markdown
-                                                                                                                                              </td>
-                                                                                                                                            <!-- ========= -->
         <td align="center" width="96">
           <a href="https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies">
             <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="icon" />
@@ -376,13 +390,6 @@
         </td>
       <!-- ========= -->
         <td align="center" width="96">
-          <a href="https://learn.microsoft.com/en-us/windows/">
-            <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="icon" />
-          </a>
-          <br>Windows
-        </td>
-      <!-- ========= -->
-        <td align="center" width="96">
           <a href="https://ziglang.org/documentation/master/">
             <img src="https://skillicons.dev/icons?i=zig" width="65" height="65" alt="icon" />
           </a>
@@ -413,14 +420,7 @@
           </a>
           <br>Assembly
         </td>
-                                                                                                                                                        <!-- ========= -->  
-                                                                                                                                                          <td align="center" width="96">
-                                                                                                                                                            <a href="https://www.gnu.org/software/make/manual/make.html">
-                                                                                                                                                              <img src="https://www.liblogo.com/img-logo/gn2920g19b-gnu-logo-gnu-logo-free-icon-icon-icons-com.png" width="65" height="65" alt="icon" />
-                                                                                                                                                            </a>
-                                                                                                                                                            <br>GNU/Make
-                                                                                                                                                          </td>
-                                                                                                                                                        <!-- ========= --> 
+      <!-- ========= -->  
         <td align="center" width="96">
           <a href="https://docs.modular.com/mojo/manual/">
             <img src="https://miro.medium.com/0*2nHvlc2J8SwE1mzZ" width="65" height="65" alt="icon" />
