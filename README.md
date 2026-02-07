@@ -222,9 +222,9 @@
        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=nvim" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="icon" />
           </a>
-          <br>Nvim
+          <br>Neovim
         </td>
        <!-- ========= -->
         <td align="center" width="96">
