@@ -241,6 +241,7 @@
       </tr>
       <!-- =============================== Explored =============================== -->
       <tr><td><span height = "15">Explored</span></td></tr>
+      <tr>
       <td align="center" width="96">
         <a href="https://webpack.js.org/">
           <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="icon" />
@@ -248,65 +249,61 @@
         <br>Webpack
       </td>
       <!-- ========= -->
-      <tr>
-        <td align="center" width="96">
+      <td align="center" width="96">
           <a href="https://www.postgresql.org/docs/current/sql.html"> <!-- alternative: https://www.w3schools.com/sql/sql_intro.asp -->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="icon" />
           </a>
           <br>SQL
         </td>
        <!-- ========= -->
-        <td align="center" width="96">
+       <td align="center" width="96">
           <a href="https://graphql.org/">
             <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="icon" />
           </a>
           <br>GraphQL
         </td>
        <!-- ========= -->
-        <td align="center" width="96">
+       <td align="center" width="96">
           <a href="https://redis.io/docs/latest/">
             <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="icon" />
           </a>
           <br>Redis
         </td>
-        <!-- ========= -->
-        <td align="center" width="96">
+      <!-- ========= -->
+      <td align="center" width="96">
           <a href="https://code.visualstudio.com/docs/">
             <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="icon" />
           </a>
           <br>VsCode
         </td>
-       <!-- ========= -->
-        <td align="center" width="96">
+      <!-- ========= -->
+      <td align="center" width="96">
           <a href="https://www.vim.org/docs.php">
             <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="icon" />
           </a>
           <br>Vim
         </td>
-       <!-- ========= -->
-        <td align="center" width="96">
+      <!-- ========= -->
+      <td align="center" width="96">
           <a href="https://create.roblox.com/docs/">
             <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
           </a>
           <br>Roblox Studio
         </td>
-       <!-- ========= -->
-        <td align="center" width="96">
+      <!-- ========= -->
+      <td align="center" width="96">
           <a href="https://developer.android.com/develop/">
             <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="icon" />
           </a>
           <br>Android Studio
         </td>
-        <!-- ========= -->
-        <td align="center" width="96">
+      <!-- ========= -->
+      <td align="center" width="96">
           <a href="https://docs.aws.amazon.com/">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
           </a>
           <br>AWS
         </td>
-        <!-- ========= -->
-    </tr>
-    <tr>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.blender.org/">
@@ -321,6 +318,10 @@
           </a>
           <br>Cmake
         </td>
+      <!-- ========= -->
+    </tr>
+    <tr>
+      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://go.dev/doc/">
             <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
@@ -341,9 +342,6 @@
           </a>
           <br>Pentest
         </td>
-      <!-- ========= -->
-    </tr>
-    <tr>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://nim-lang.org/documentation.html">
@@ -393,6 +391,9 @@
           </a>
           <br>Zig
         </td>
+      <!-- ========= -->
+    </tr>
+    <tr>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://crystal-lang.org/reference/">
