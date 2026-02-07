@@ -118,8 +118,6 @@
           </a>
           <br>Lua
         </td>
-      </tr>
-      <tr>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://luau.org/getting-started/">
@@ -134,6 +132,9 @@
           </a>
           <br>Nix
         </td>
+        <!-- ========= -->
+      </tr>
+      <tr>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://git-scm.com/docs">
@@ -216,30 +217,22 @@
           <br>Docker
         </td>
       <!-- ========= -->
-                                                                                                    <!-- ========= -->
-                                                                                                    <td align="center" width="96">
-                                                                                                      <a href="https://webpack.js.org/">
-                                                                                                        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="icon" />
-                                                                                                      </a>
-                                                                                                      <br>Webpack
-                                                                                                    </td>
-                                                                                                    <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.php.net/docs.php">
             <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" alt="icon" />
           </a>
           <br>PHP
         </td>
-                                                                                                      <!-- ========= -->
-                                                                                                      <td align="center" width="96">
-                                                                                                        <a href="https://docs.aws.amazon.com/">
-                                                                                                          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
-                                                                                                        </a>
-                                                                                                        <br>AWS
-                                                                                                      </td>
       </tr>
       <!-- =============================== Explored =============================== -->
       <tr><td><span height = "15">Explored</span></td></tr>
+      <td align="center" width="96">
+        <a href="https://webpack.js.org/">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="icon" />
+        </a>
+        <br>Webpack
+      </td>
+      <!-- ========= -->
       <tr>
         <td align="center" width="96">
           <a href="https://www.postgresql.org/docs/current/sql.html"> <!-- alternative: https://www.w3schools.com/sql/sql_intro.asp -->
@@ -275,6 +268,7 @@
           </a>
           <br>Vim
         </td>
+       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://create.roblox.com/docs/">
             <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
@@ -287,6 +281,13 @@
             <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="icon" />
           </a>
           <br>Android Studio
+        </td>
+        <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://docs.aws.amazon.com/">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
+          </a>
+          <br>AWS
         </td>
         <!-- ========= -->
     </tr>
@@ -321,14 +322,12 @@
           <br>Github Actions
         </td>
       <!-- ========= -->
-                                                                                                                                          <!-- ========= -->
-                                                                                                                                            <td align="center" width="96">
-                                                                                                                                              <a href="https://go.dev/doc/">
-                                                                                                                                                <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
-                                                                                                                                              </a>
-                                                                                                                                              <br>Go
-                                                                                                                                            </td>
-                                                                                                                                          <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://go.dev/doc/">
+            <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
+          </a>
+          <br>Go
+        </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.gtk.org/docs/">
@@ -336,6 +335,7 @@
           </a>
           <br>GTK
         </td>
+      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies">
             <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="icon" />
