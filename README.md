@@ -392,11 +392,19 @@
     </tr>
     <!-- =============================== 5 ROW =============================== -->
     <tr>
+      <!-- ========= -->  
         <td align="center" width="96">
           <a href="#macropower-tech">
             <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="icon" />
           </a>
           <br>Java
+        </td>
+      <!-- ========= -->  
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" width="65" height="65" alt="icon" />
+          </a>
+          <br>Assembly
         </td>
       <!-- ========= -->
     </tr>
