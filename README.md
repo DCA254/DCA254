@@ -222,6 +222,13 @@
        <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="icon" />
+          </a>
+          <br>Vim
+        </td>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
             <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="icon" />
           </a>
           <br>Neovim
@@ -232,6 +239,13 @@
             <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
           </a>
           <br>Roblox Studio
+        </td>
+       <!-- ========= -->
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="icon" />
+          </a>
+          <br>Android Studio
         </td>
         <!-- ========= -->
      </tr>
