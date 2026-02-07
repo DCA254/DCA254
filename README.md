@@ -223,6 +223,21 @@
           </a>
           <br>PHP
         </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://learn.microsoft.com/en-us/dotnet/">
+            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="icon" />
+          </a>
+          <br>.NET
+        </td>
+      <!-- ========= -->
+        <td align="center" width="96">
+          <a href="https://docs.github.com/en/actions">
+            <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="icon" />
+          </a>
+          <br>Github Actions
+        </td>
+      <!-- ========= -->
       </tr>
       <!-- =============================== Explored =============================== -->
       <tr><td><span height = "15">Explored</span></td></tr>
@@ -291,7 +306,6 @@
         </td>
         <!-- ========= -->
     </tr>
-    <!-- =============================== Explored 2 =============================== -->
     <tr>
       <!-- ========= -->
         <td align="center" width="96">
@@ -307,21 +321,6 @@
           </a>
           <br>Cmake
         </td>
-      <!-- ========= -->
-        <td align="center" width="96">
-          <a href="https://learn.microsoft.com/en-us/dotnet/">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="icon" />
-          </a>
-          <br>.NET
-        </td>
-      <!-- ========= -->
-        <td align="center" width="96">
-          <a href="https://docs.github.com/en/actions">
-            <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="icon" />
-          </a>
-          <br>Github Actions
-        </td>
-      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://go.dev/doc/">
             <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
@@ -344,7 +343,6 @@
         </td>
       <!-- ========= -->
     </tr>
-    <!-- =============================== Explored 3 =============================== -->
     <tr>
       <!-- ========= -->
         <td align="center" width="96">
@@ -404,7 +402,6 @@
         </td>
       <!-- ========= -->
     </tr>
-    <!-- =============================== Explored 4 =============================== -->
     <tr>
       <!-- ========= -->  
         <td align="center" width="96">
