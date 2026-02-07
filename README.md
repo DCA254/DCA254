@@ -130,7 +130,7 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://gimgs2.nohat.cc/thumb/f/350/luau-programming-language-logo-vector--comseeklogo438634.jpg" width="65" height="65" alt="icon" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png" width="65" height="65" alt="icon" />
           </a>
           <br>LuaU
         </td>
