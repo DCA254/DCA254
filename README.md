@@ -3,7 +3,6 @@
 <h3 align="center">I'm a 15 year old coding noob!</h3>
 
 <p align="center">
-  <!-- all 'height' should be equal -->
   <a href="https://github.com/DCA254?tab=stars&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DCA254"/></a>
   <a href="https://github.com/DCA254?tab=followers">
@@ -16,6 +15,15 @@
 </p>
 
 ---
+
+<table align="right">
+    <tr><td><span height = "15">🔣</span> Languages 0 - 3</td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"> Brazilian Portuguese ★★★ (native)</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="15"> Portuguese ★★☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="15"> Spanish ★☆☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="15"> Russian ★☆☆</a></td></tr>
+</table>
 
 ## 🧠 about me
 
