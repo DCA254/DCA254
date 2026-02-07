@@ -352,7 +352,7 @@
       <!-- ========= -->
         <td align="center" width="96">
           <a href="#macropower-tech">
-            <img src="https://skillicons.dev/icons?i=visualStudio" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="icon" />
           </a>
           <br>Visual Studio
         </td>
