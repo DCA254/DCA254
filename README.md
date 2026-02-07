@@ -385,15 +385,15 @@
           <br>Visual Studio
         </td>
       <!-- ========= -->
+    </tr>
+    <tr>
+      <!-- ========= -->
         <td align="center" width="96">
           <a href="https://ziglang.org/documentation/master/">
             <img src="https://skillicons.dev/icons?i=zig" width="65" height="65" alt="icon" />
           </a>
           <br>Zig
         </td>
-      <!-- ========= -->
-    </tr>
-    <tr>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://crystal-lang.org/reference/">
