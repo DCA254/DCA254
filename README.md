@@ -58,7 +58,7 @@
 - plus a bunch of smaller tools and experiments
 <a
   href="https://github.com/DCA254?tab=repositories">
-  <b>Check then out!</b>
+  <b>Check them out!</b>
 </a>
 
 i like building from scratch. libraries are **optional**.
