@@ -53,13 +53,13 @@
     <h2><b>
       What I work with
     </h2></b>
-    <table align="right"><tr><td><span height = "15">NOTE:</span> I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some. </td></tr></table>
+    <table align="right"><tr><td><span height = "15">These are tools and languages I’ve used at different levels — from daily use to experimentation.</td></tr></table>
   </summary>
 
 
   <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
-      <tr><td><span height = "15">Advanced</span></td></tr>
+      <tr><td><span height = "15">Daily use</span></td></tr>
       <!-- =============================== Mastered =============================== -->
       <tr>
         <!-- ========= -->
@@ -166,7 +166,7 @@
          <!-- ========= -->
       </tr>
       <!-- =============================== Moderate =============================== -->
-      <tr><td><span height = "15">Moderated</span></td></tr>
+      <tr><td><span height = "15">Secondary stack</span></td></tr>
       <tr>
         <td align="center" width="96">
           <a href="https://devdocs.io/c/">
