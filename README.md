@@ -53,7 +53,7 @@
     <h2><b>
       What I work with
     </h2></b>
-    <table align="right"><tr><td><span height = "15">These are tools and languages I’ve used at different levels — from daily use to experimentation.</td></tr></table>
+    <table align="center"><tr><td><span height = "15">These are tools and languages I’ve used at different levels — from daily use to experimentation.</td></tr></table>
   </summary>
 
 
