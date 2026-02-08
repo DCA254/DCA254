@@ -50,14 +50,100 @@
 
 ## 🛠️ things i've built ( and keep breaking on 'purpose' 🥀)
 
-- [**MoonMask**](https://github.com/DCA254/MoonMask) → LuaU code obfuscator  
-- [**PSLoom**](https://github.com/DCA254/PSLoom) → modular PowerShell configuration framework  
-- [**SpeedyTurtle**](https://github.com/DCA254/SpeedyTurtle) → **meme** browser
-- **CinPy** → simple FFI bindings between C and Python  (private, for now)
-- **Cryptographer** → cryptography library in Python  (private, for now)
-- plus a bunch of smaller tools and experiments
-<a
-  href="https://github.com/DCA254?tab=repositories">
+<!-- FORMATING: Project Name + link, What is, Tech stack used (resumed) -->
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td>
+        <span height = "15">
+          Project
+        </span>
+      </td>
+      <td>
+        <span height = "15">
+          What is
+        </span>
+      </td>
+      <td>
+        <span height = "15">
+          Tech stack used (resumed)
+        </span>
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
+        <a href="https://github.com/DCA254/MoonMask">
+          <b>MoonMask</b>
+        </a>
+      </td>
+      <td>
+        LuaU code obfuscator
+      </td>
+      <td>
+        Rust, Batch, Posix sh, Make
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
+        <a href="https://github.com/DCA254/PSLoom">
+          <b>PSLoom</b>
+        </a>
+      </td>
+      <td>
+        Modular powerShell configuration framework 
+      </td>
+      <td>
+        Powershell, C#
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
+        <a href="https://github.com/DCA254/CinPy">
+          <b>CinPy</b>
+        </a>
+      </td>
+      <td>
+        Python lib for simple and easy to use FFI bindings between C and Python  (private, for now)
+      </td>
+      <td>
+        C, Python, Make
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
+        <a href="https://github.com/DCA254/Cryptographer">
+          <b>Cryptographer</b>
+        </a>
+      </td>
+      <td>
+        Cryptography lib for Python (private, for now)
+      </td>
+      <td>
+        C, Python, Make
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
+        <a href="https://github.com/DCA254/SpeedyTurtle">
+          <b>SpeedyTurtle</b>
+        </a>
+      </td>
+      <td>
+        <b>Meme</b> browser
+      </td>
+      <td>
+        C#, Visual studio
+      </td>
+    </tr>
+    <!-- ========= -->
+  </table>
+</div>
+<a href="https://github.com/DCA254?tab=repositories">
   <b>Check them out!</b>
 </a>
 
