@@ -198,7 +198,7 @@ i like building from scratch. libraries are **optional**.
          <!-- ========= -->
       </tr>
       <!-- =============================== Moderate =============================== -->
-      <tr><td><span height = "15">Secondary stack</span></td></tr>
+      <tr><td><span height = "15">Moderated</span></td></tr>
       <tr>
         <td align="center" width="96">
           <a href="https://devdocs.io/c/">
