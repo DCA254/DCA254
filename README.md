@@ -101,6 +101,20 @@
     <!-- ========= -->
     <tr>
       <td>
+        <a href="https://github.com/DCA254/SpeedyTurtle">
+          <b>SpeedyTurtle</b>
+        </a>
+      </td>
+      <td>
+        <b>Meme</b> browser
+      </td>
+      <td>
+        C#, Visual studio
+      </td>
+    </tr>
+    <!-- ========= -->
+    <tr>
+      <td>
         <a href="https://github.com/DCA254/CinPy">
           <b>CinPy</b>
         </a>
@@ -124,20 +138,6 @@
       </td>
       <td>
         C, Python, Make
-      </td>
-    </tr>
-    <!-- ========= -->
-    <tr>
-      <td>
-        <a href="https://github.com/DCA254/SpeedyTurtle">
-          <b>SpeedyTurtle</b>
-        </a>
-      </td>
-      <td>
-        <b>Meme</b> browser
-      </td>
-      <td>
-        C#, Visual studio
       </td>
     </tr>
     <!-- ========= -->
