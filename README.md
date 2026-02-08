@@ -48,6 +48,38 @@
 
 ---
 
+## 🛠️ things i've built ( and keep breaking on 'purpose' 🥀)
+
+- [**MoonMask**](https://github.com/DCA254/MoonMask) → LuaU code obfuscator  
+- [**PSLoom**](https://github.com/DCA254/PSLoom) → modular PowerShell configuration framework  
+- [**SpeedyTurtle**](https://github.com/DCA254/SpeedyTurtle) → **meme** browser
+- **CinPy** → simple FFI bindings between C and Python  (private, for now)
+- **Cryptographer** → cryptography library in Python  (private, for now)
+- plus a bunch of smaller tools and experiments
+<a
+  href="https://github.com/DCA254?tab=repositories">
+  <b>Check then out!</b>
+</a>
+
+i like building from scratch. libraries are **optional**.
+
+---
+
+## Interests
+
+- malware development & analysis
+- cryptography (the math, not just APIs)
+- low-level systems
+- linux & nix-based setups
+- modular configs and frameworks
+- reverse engineering (reading > exploiting)
+
+> ❌ web hacking
+> ❌ web development (**fuck css**)
+> ❌ clicky dashboards  
+
+---
+
 <details>
   <summary>
     <h2><b>
@@ -437,38 +469,6 @@
 > *“You can learn anything, if you know its use reason and internals.”*
 
 </details>
-
----
-
-## 🛠️ things i've built ( and keep breaking on 'purpose' 🥀)
-
-- [**MoonMask**](https://github.com/DCA254/MoonMask) → LuaU code obfuscator  
-- [**PSLoom**](https://github.com/DCA254/PSLoom) → modular PowerShell configuration framework  
-- [**SpeedyTurtle**](https://github.com/DCA254/SpeedyTurtle) → **meme** browser
-- **CinPy** → simple FFI bindings between C and Python  (private, for now)
-- **Cryptographer** → cryptography library in Python  (private, for now)
-- plus a bunch of smaller tools and experiments
-<a
-  href="https://github.com/DCA254?tab=repositories">
-  <b>Check then out!</b>
-</a>
-
-i like building from scratch. libraries are **optional**.
-
----
-
-## Interests
-
-- malware development & analysis
-- cryptography (the math, not just APIs)
-- low-level systems
-- linux & nix-based setups
-- modular configs and frameworks
-- reverse engineering (reading > exploiting)
-
-> ❌ web hacking
-> ❌ web development (**fuck css**)
-> ❌ clicky dashboards  
 
 ---
 
