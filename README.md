@@ -55,17 +55,17 @@
   <table align="center">
     <tr>
       <td>
-        <span height = "15">
+        <span height = "15" align="center">
           Project
         </span>
       </td>
       <td>
-        <span height = "15">
+        <span height = "15" align="center">
           What is
         </span>
       </td>
       <td>
-        <span height = "15">
+        <span height = "15" align="center">
           Tech stack used (resumed)
         </span>
       </td>
