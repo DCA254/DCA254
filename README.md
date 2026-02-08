@@ -51,7 +51,7 @@
 <details>
   <summary>
     <h2><b>
-      My tech stack ( Languages, Tools, etc ).
+      What I work with
     </h2></b>
     <table align="right"><tr><td><span height = "15">NOTE:</span> I don't necessarily know all of them; I've only played some out of curiosity, learned others at a moderate level, and mastered some. </td></tr></table>
   </summary>
@@ -59,76 +59,76 @@
 
   <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
-      <tr><td><span height = "15">Mastered</span></td></tr>
+      <tr><td><span height = "15">Advanced</span></td></tr>
       <!-- =============================== Mastered =============================== -->
       <tr>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">
-            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="" />
           </a>
           <br>Batch
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.gnu.org/software/bash/manual/html_node/index.html">
-            <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="" />
           </a>
           <br>Bash
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview">
-            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="" />
           </a>
           <br>Powershell
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.python.org/">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>Python
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://doc.rust-lang.org/">
-            <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="" />
           </a>
           <br>Rust
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://gustedt.gitlabpages.inria.fr/modern-c/">
-            <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="" />
           </a>
           <br>C
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>C#
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.lua.org/docs.html">
-            <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="" />
           </a>
           <br>Lua
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://luau.org/getting-started/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png" width="65" height="65" alt="icon" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png" width="65" height="65" alt="" />
           </a>
           <br>LuaU
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://nix.dev/tutorials/nix-language.html">
-            <img src="https://skillicons.dev/icons?i=nix" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=nix" width="65" height="65" alt="" />
           </a>
           <br>Nix
         </td>
@@ -138,28 +138,28 @@
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://git-scm.com/docs">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="icon" />
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="" />
           </a>
           <br>Git
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.github.com/en">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>Github
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://github.com/torvalds/linux"> <!-- Could aso put the NixOS docs since its my distro: https://mynixos.com/ -->
-            <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="" />
           </a>
           <br>GNU/Linux
         </td>
          <!-- ========= -->
           <td align="center" width="96">
             <a href="https://neovim.io/doc/">
-              <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="icon" />
+              <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="" />
             </a>
             <br>Neovim
           </td>
@@ -170,70 +170,70 @@
       <tr>
         <td align="center" width="96">
           <a href="https://devdocs.io/c/">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>C++
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>JavaScript
         </td>
         <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.typescriptlang.org/docs/">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>TypeScript
         </td>
         <!-- ========= -->
           <td align="center" width="96">
             <a href="https://www.markdownguide.org/">
-              <img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="icon" />
+              <img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="" />
             </a>
             <br>Markdown
           </td>
         <!-- ========= -->
           <td align="center" width="96">
             <a href="https://learn.microsoft.com/en-us/windows/">
-              <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="icon" />
+              <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="" />
             </a>
             <br>Windows
           </td>
         <!-- ========= -->  
           <td align="center" width="96">
             <a href="https://www.gnu.org/software/make/manual/make.html">
-              <img src="https://www.liblogo.com/img-logo/gn2920g19b-gnu-logo-gnu-logo-free-icon-icon-icons-com.png" width="65" height="65" alt="icon" />
+              <img src="https://www.liblogo.com/img-logo/gn2920g19b-gnu-logo-gnu-logo-free-icon-icon-icons-com.png" width="65" height="65" alt="" />
             </a>
             <br>GNU/Make
           </td>
         <!-- ========= --> 
         <td align="center" width="96">
           <a href="https://docs.docker.com/">
-            <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="" />
           </a>
           <br>Docker
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.php.net/docs.php">
-            <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="" />
           </a>
           <br>PHP
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/dotnet/">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="" />
           </a>
           <br>.NET
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.github.com/en/actions">
-            <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="" />
           </a>
           <br>Github Actions
         </td>
@@ -244,70 +244,70 @@
       <tr>
       <td align="center" width="96">
         <a href="https://webpack.js.org/">
-          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="icon" />
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="" />
         </a>
         <br>Webpack
       </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://www.postgresql.org/docs/current/sql.html"> <!-- alternative: https://www.w3schools.com/sql/sql_intro.asp -->
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="icon" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="" />
           </a>
           <br>SQL
         </td>
        <!-- ========= -->
        <td align="center" width="96">
           <a href="https://graphql.org/">
-            <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="" />
           </a>
           <br>GraphQL
         </td>
        <!-- ========= -->
        <td align="center" width="96">
           <a href="https://redis.io/docs/latest/">
-            <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="" />
           </a>
           <br>Redis
         </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://code.visualstudio.com/docs/">
-            <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="" />
           </a>
           <br>VsCode
         </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://www.vim.org/docs.php">
-            <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="" />
           </a>
           <br>Vim
         </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://create.roblox.com/docs/">
-            <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=robloxstudio" width="65" height="65" alt="" />
           </a>
           <br>Roblox Studio
         </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://developer.android.com/develop/">
-            <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="" />
           </a>
           <br>Android Studio
         </td>
       <!-- ========= -->
       <td align="center" width="96">
           <a href="https://docs.aws.amazon.com/">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="" />
           </a>
           <br>AWS
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.blender.org/">
-            <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="" />
           </a>
           <br>Blender
         </td>
@@ -317,70 +317,70 @@
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://cmake.org/cmake/help/latest/index.html">
-            <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="" />
           </a>
           <br>Cmake
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://go.dev/doc/">
-            <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="" />
           </a>
           <br>Go
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.gtk.org/docs/">
-            <img src="https://skillicons.dev/icons?i=gtk" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=gtk" width="65" height="65" alt="" />
           </a>
           <br>GTK
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies">
-            <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="" />
           </a>
           <br>Pentest
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://nim-lang.org/documentation.html">
-            <img src="https://skillicons.dev/icons?i=nim" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=nim" width="65" height="65" alt="" />
           </a>
           <br>Nim
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference">
-            <img src="https://skillicons.dev/icons?i=regex" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=regex" width="65" height="65" alt="" />
           </a>
           <br>Regular Expressions
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://www.ruby-lang.org/en/documentation/">
-            <img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" alt="" />
           </a>
           <br>Ruby
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://docs.unity.com/en-us">
-            <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="" />
           </a>
           <br>Unity
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://vercel.com/docs">
-            <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="" />
           </a>
           <br>Vercel
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=visualstudio">
-            <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="" />
           </a>
           <br>Visual Studio
         </td>
@@ -390,42 +390,42 @@
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://ziglang.org/documentation/master/">
-            <img src="https://skillicons.dev/icons?i=zig" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=zig" width="65" height="65" alt="" />
           </a>
           <br>Zig
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://crystal-lang.org/reference/">
-            <img src="https://skillicons.dev/icons?i=crystal" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=crystal" width="65" height="65" alt="" />
           </a>
           <br>Crystal
         </td>
       <!-- ========= -->
         <td align="center" width="96">
           <a href="https://dev.java/">
-            <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="icon" />
+            <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="" />
           </a>
           <br>Java
         </td>
       <!-- ========= -->  
         <td align="center" width="96">
           <a href="https://en.wikipedia.org/wiki/Assembly_language">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AssemblyScript_logo_2020.svg/960px-AssemblyScript_logo_2020.svg.png" width="65" height="65" alt="icon" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AssemblyScript_logo_2020.svg/960px-AssemblyScript_logo_2020.svg.png" width="65" height="65" alt="" />
           </a>
           <br>Assembly
         </td>
       <!-- ========= -->  
         <td align="center" width="96">
           <a href="https://docs.modular.com/mojo/manual/">
-            <img src="https://miro.medium.com/0*2nHvlc2J8SwE1mzZ" width="65" height="65" alt="icon" />
+            <img src="https://miro.medium.com/0*2nHvlc2J8SwE1mzZ" width="65" height="65" alt="" />
           </a>
           <br>Mojo
         </td>
       <!-- ========= -->  
         <td align="center" width="96">
           <a href="https://docs.carbon-lang.dev/">
-            <img src="https://i.redd.it/yqzsqsu1k9ja1.png" width="65" height="65" alt="icon" />
+            <img src="https://i.redd.it/yqzsqsu1k9ja1.png" width="65" height="65" alt="" />
           </a>
           <br>Carbon
         </td>
