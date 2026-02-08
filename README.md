@@ -143,6 +143,7 @@
     <!-- ========= -->
   </table>
 </div>
+- Plus a bunch of smaller tools and experiments
 <a href="https://github.com/DCA254?tab=repositories">
   <b>Check them out!</b>
 </a>
